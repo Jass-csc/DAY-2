@@ -27,7 +27,6 @@ In this analogy:
 In technical terms, the Kernel in Linux is the core component of the operating system. It acts as a bridge between the hardware and software, managing system resources and enabling communication between them.
 here is the diagram of linux shell, that includes kernel, shell, hardware and user:
 ![image](https://github.com/user-attachments/assets/e5d1ac7c-0dc1-49d6-a1a4-69b11d07b949)
-![image](https://github.com/user-attachments/assets/e5d1ac7c-0dc1-49d6-a1a4-69b11d07b949)
 
 The professor also mentioned the term MOM, which stands for "Minutes of Meeting."
 
